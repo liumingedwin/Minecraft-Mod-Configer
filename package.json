@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-websocket",
+  "version": "1.0.0",
+  "description": "A WebSocket Server For Minecraft.",
+  "main": "modloader.js",
+  "scripts": {
+    "test": "node modloader"
+  },
+  "keywords": [
+    "Minecraft",
+    "WebSocket"
+  ],
+  "author": "Edwinlau",
+  "license": "ISC"
+}
