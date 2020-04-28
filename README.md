@@ -11,7 +11,7 @@ module.exports.onmessage=function(choise,message,conn){
 choise:create/text
 create:启用mod
 text:事件或发送命令产生的消息
-message:消息本体
+message:消息本体(JSON/Object对象)
 conn:通信对象
 conn.sendcommand("命令"); //发送命令
 message.body.properties.Message:在聊天框发送的消息
