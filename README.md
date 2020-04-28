@@ -43,4 +43,12 @@ module.exports.onmessage=function(choise,message,conn){
 }
 ```
 
-将它保存至mod\timeshow.js，启动服务器，即可
+将它保存至`mod\timeshow.js`，启动服务器，即可
+
+## 更高级的用法
+
+你可以使用`./run %commandline%`来在游戏执行命令，例如`/agent create`
+
+你还可以帮助作者修改这个项目，将其改的更好！
+
+更多信息[请点这里](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/WebSocket)
