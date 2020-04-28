@@ -43,7 +43,13 @@ module.exports.onmessage=function(choise,message,conn){
 }
 ```
 
-将它保存至`mod\timeshow.js`，启动服务器，即可
+将它保存至`mod\timeshow.js`，启动服务器，
+
+并在`Minecraft Bedrock Edition`中输入`/connect 127.0.0.1:8900`
+
+然后再输入`./addmod timeshow`
+
+最后你就可以输入`./runmod`，查看效果了！
 
 ## 更高级的用法
 
