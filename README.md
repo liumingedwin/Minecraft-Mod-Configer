@@ -1,4 +1,6 @@
 # Minecraft-Mod-Configer
+
+## 基本使用
 一个专为`Minecraft Bedrock Edition`设计的Mod包管理器。首先参考[Minecraft-WebSocket](https://github.com/liumingedwin/mcws)进行安装。然后直接进入控制台，输入`node modloader`即可运行
 
 您需要使用`Node.js`在`mods`文件夹编写项目源代码，像这样
