@@ -11,5 +11,9 @@
     "WebSocket"
   ],
   "author": "Edwinlau",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mcws": "^1.0.3",
+    "nodejs-websocket": "^1.7.2"
+  }
 }
