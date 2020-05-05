@@ -5,7 +5,6 @@
 
 您需要使用`Node.js`在`mods`文件夹编写项目源代码，像这样
 ```javascript
-var inter;
 module.exports.onmessage=function(choise,message,conn){
 /*
 choise:create/text
